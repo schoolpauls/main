@@ -1,10 +1,10 @@
 function checkPassword() {
     const passwords = {
-        'deepak': 'https://www.google.co.in/', 
-        'priya': 'https://www.example.com/', 
-        'ananya': 'https://www.example.org/',
-        'aarav': 'https://www.example.com/',
-        'rajkumar': 'https://www.example.com/'
+        'deepak': 'https://schoolpauls.github.io/students/deepaknishad10', 
+        'priya': 'https://schoolpauls.github.io/students/priyapatel10', 
+        'ananya': 'https://schoolpauls.github.io/students/ananyadeshmukh10',
+        'aarav': 'https://schoolpauls.github.io/students/aaravsharma10',
+        'rajkumar': 'https://schoolpauls.github.io/students/rajkumar10'
     };
 
     const inputPassword = document.getElementById('password').value;

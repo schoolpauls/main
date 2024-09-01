@@ -1,0 +1,335 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+
+}
+body {
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/176/35/desktop-wallpaper-light-yellow-backgrounds-%C2%B7%E2%91%A0-awesome-high-resolution-light-background.jpg');
+    background-size: cover; /* or 'contain' depending on your preference */
+
+    background-repeat: no-repeat;
+}
+
+
+
+/*///////////////////////////////////////*/
+.navbar{display: flex;
+    margin: auto;
+    border-radius: 2.5px;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    height: 60px;
+    width: auto;
+    text-align: center;
+    background-color: 	#383838;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navlogo{
+    height: 65px;
+    width: auto;
+    margin-top: 8px;
+    margin-right: 10px;
+    padding-right: 5px;
+}
+.navlogo:hover{
+    border-radius: 50%;
+
+}
+
+/*///////////////////////////////////////*/
+
+.box{
+    background-color: 			#9A7B4F;
+    color: black;
+    border-radius: 3.8px;
+    height: 535px;
+    width: 85vh;
+    text-align: center;
+    margin-top: 18px;
+    border: 2px solid black;
+}
+.container1{display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#sc{
+    margin: 3.5px;
+    margin-bottom: 9px;
+    color: black; background-color: #fffdd0;
+    font-family: Georgia;
+padding-bottom: 3.8px; }
+
+.footer{
+    display: flex;
+    background-color: #383838;
+    color: white;
+    margin-top: 10px;
+    padding: 20px;
+    padding-top: 6px;
+}
+.foot1{
+    background-color: #383838;
+    color: white;
+    height: 30px;
+    display: flex;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}
+#p11{
+    margin: 6px;margin-top: 3px;
+    font-size: 17px;}
+
+    .back-button {
+        display: inline-block;
+        padding: 10px 20px;
+        border: 2px solid black;
+        font-size: 16px;
+        color: white;
+        background-color: #9A7B4F;
+        position: fixed;
+        margin-top: 22px;
+        margin-left: 925px;
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+        transition: background-color 0.3s;
+    }
+    .back-button:hover {
+        background-color: #fffdd0;
+        color: black;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.folder1 {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder1:hover {
+    background-color: #f8e5a2;
+}
+
+.folder2 {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder2:hover {
+    background-color: #f8e5a2;
+}
+
+.folder3 {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder3:hover {
+    background-color: #f8e5a2;
+}
+
+.folder4 {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder4:hover {
+    background-color: #f8e5a2;
+}
+
+.folder5{
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder5:hover {
+    background-color: #f8e5a2;
+}
+
+.folder6 {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder6:hover {
+    background-color: #f8e5a2;
+}
+
+.folder7 {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder7:hover {
+    background-color: #f8e5a2;
+}
+
+.folder8 {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder8:hover {
+    background-color: #f8e5a2;
+}
+
+.folder9{
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder9:hover {
+    background-color: #f8e5a2;
+}
+
+.folder10 {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #fffdd0;
+    font-family: 'Trebuchet MS',Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.folder10:hover {
+    background-color: #f8e5a2;
+}
+
+
+
+
+
+
+
+
+

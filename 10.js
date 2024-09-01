@@ -1,5 +1,5 @@
 function navigateToPage1() {
-    window.location.href = ''; // Link to the desired page
+    window.location.href = 'https://schoolpauls.github.io/main/login.html'; // Link to the desired page
 }
 
 function navigateToPage2() {
